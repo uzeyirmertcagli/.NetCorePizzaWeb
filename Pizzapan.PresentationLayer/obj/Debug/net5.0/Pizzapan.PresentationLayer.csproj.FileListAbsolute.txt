@@ -1,0 +1,497 @@
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\appsettings.Development.json
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\appsettings.json
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.PresentationLayer.exe
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.PresentationLayer.deps.json
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.PresentationLayer.runtimeconfig.json
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.PresentationLayer.runtimeconfig.dev.json
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.PresentationLayer.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.PresentationLayer.pdb
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.PresentationLayer.Views.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.PresentationLayer.Views.pdb
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Humanizer.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.DataAccessLayer.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.EntityLayer.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.DataAccessLayer.pdb
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.EntityLayer.pdb
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.csproj.AssemblyReference.cache
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.AssemblyInfoInputs.cache
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.AssemblyInfo.cs
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.csproj.CoreCompileInputs.cache
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.MvcApplicationPartsAssemblyInfo.cache
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.RazorAssemblyInfo.cache
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.RazorAssemblyInfo.cs
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\scopedcss\bundle\Pizzapan.PresentationLayer.styles.css
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\staticwebassets\Pizzapan.PresentationLayer.StaticWebAssets.Manifest.cache
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\staticwebassets\Pizzapan.PresentationLayer.StaticWebAssets.Pack.cache
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\staticwebassets\msbuild.Pizzapan.PresentationLayer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\staticwebassets\msbuild.build.Pizzapan.PresentationLayer.props
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Pizzapan.PresentationLayer.props
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Pizzapan.PresentationLayer.props
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.TagHelpers.input.cache
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.TagHelpers.output.cache
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.RazorCoreGenerate.cache
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.RazorTargetAssemblyInfo.cache
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.RazorTargetAssemblyInfo.cs
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.Views.pdb
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.csproj.CopyComplete
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\refint\Pizzapan.PresentationLayer.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.pdb
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.genruntimeconfig.cache
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\ref\Pizzapan.PresentationLayer.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.BusinessLayer.dll
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.BusinessLayer.pdb
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Category\AddCategory.cshtml.g.cs
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Category\UpdateCategory.cshtml.g.cs
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Product\AddProduct.cshtml.g.cs
+D:\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Product\UpdateProduct.cshtml.g.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\appsettings.Development.json
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\appsettings.json
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.PresentationLayer.exe
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.PresentationLayer.deps.json
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.PresentationLayer.runtimeconfig.json
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.PresentationLayer.runtimeconfig.dev.json
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.PresentationLayer.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.PresentationLayer.pdb
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.PresentationLayer.Views.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.PresentationLayer.Views.pdb
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Humanizer.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.BusinessLayer.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.DataAccessLayer.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.EntityLayer.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.BusinessLayer.pdb
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.DataAccessLayer.pdb
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.EntityLayer.pdb
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.csproj.AssemblyReference.cache
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.AssemblyInfoInputs.cache
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.AssemblyInfo.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.csproj.CoreCompileInputs.cache
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.MvcApplicationPartsAssemblyInfo.cache
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.RazorAssemblyInfo.cache
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.RazorAssemblyInfo.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\scopedcss\bundle\Pizzapan.PresentationLayer.styles.css
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\staticwebassets\Pizzapan.PresentationLayer.StaticWebAssets.Manifest.cache
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\staticwebassets\Pizzapan.PresentationLayer.StaticWebAssets.Pack.cache
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\staticwebassets\msbuild.Pizzapan.PresentationLayer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\staticwebassets\msbuild.build.Pizzapan.PresentationLayer.props
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Pizzapan.PresentationLayer.props
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Pizzapan.PresentationLayer.props
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.TagHelpers.input.cache
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.TagHelpers.output.cache
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.RazorCoreGenerate.cache
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Category\AddCategory.cshtml.g.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Category\UpdateCategory.cshtml.g.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Product\AddProduct.cshtml.g.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Product\UpdateProduct.cshtml.g.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.RazorTargetAssemblyInfo.cache
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.RazorTargetAssemblyInfo.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.Views.pdb
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.csproj.CopyComplete
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\refint\Pizzapan.PresentationLayer.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.pdb
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.genruntimeconfig.cache
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\ref\Pizzapan.PresentationLayer.dll
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Contact\GetMessageByTesekkur.cshtml.g.cs
+D:\Casgem Eğitim Projeleri\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Discount\CreateCode.cshtml.g.cs
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\appsettings.json
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.PresentationLayer.exe
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.PresentationLayer.deps.json
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.PresentationLayer.runtimeconfig.json
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.PresentationLayer.runtimeconfig.dev.json
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.PresentationLayer.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ref\Pizzapan.PresentationLayer.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.PresentationLayer.pdb
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.PresentationLayer.Views.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.PresentationLayer.Views.pdb
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.BusinessLayer.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.DataAccessLayer.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.EntityLayer.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.BusinessLayer.pdb
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.DataAccessLayer.pdb
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Pizzapan.EntityLayer.pdb
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.AssemblyInfo.cs
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.RazorAssemblyInfo.cache
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.RazorAssemblyInfo.cs
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\scopedcss\bundle\Pizzapan.PresentationLayer.styles.css
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\staticwebassets\Pizzapan.PresentationLayer.StaticWebAssets.Manifest.cache
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.TagHelpers.input.cache
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.TagHelpers.output.cache
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.RazorCoreGenerate.cache
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Category\AddCategory.cshtml.g.cs
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Category\UpdateCategory.cshtml.g.cs
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Contact\GetMessageByTesekkur.cshtml.g.cs
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Product\AddProduct.cshtml.g.cs
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Product\UpdateProduct.cshtml.g.cs
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.RazorTargetAssemblyInfo.cache
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.RazorTargetAssemblyInfo.cs
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.Views.pdb
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.csproj.CopyComplete
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\ref\Pizzapan.PresentationLayer.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.pdb
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Pizzapan.PresentationLayer.genruntimeconfig.cache
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Discount\CreateCode.cshtml.g.cs
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Discount\DiscountCodeList.cshtml.g.cs
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ozkan\source\repos\Casgem-.NetCore-Pizzapan-main\CasgemCoreProject\Pizzapan.PresentationLayer\obj\Debug\net5.0\Razor\Views\Register\Index.cshtml.g.cs

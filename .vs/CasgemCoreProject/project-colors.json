@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5500d09d-595f-4e72-8c9f-6a5a20705b79": {
+      "ProjectGuid": "5500d09d-595f-4e72-8c9f-6a5a20705b79",
+      "DisplayName": "Pizzapan.PresentationLayer",
+      "ColorIndex": 0
+    },
+    "1de9642a-7461-48e4-b0b1-f9c2b4f8590d": {
+      "ProjectGuid": "1de9642a-7461-48e4-b0b1-f9c2b4f8590d",
+      "DisplayName": "Pizzapan.BusinessLayer",
+      "ColorIndex": 1
+    },
+    "073780fb-62b3-4e69-b267-0a3538bd0771": {
+      "ProjectGuid": "073780fb-62b3-4e69-b267-0a3538bd0771",
+      "DisplayName": "Pizzapan.DataAccessLayer",
+      "ColorIndex": 2
+    },
+    "7df0c97b-c7b6-4d09-b5de-689ecb94d7ba": {
+      "ProjectGuid": "7df0c97b-c7b6-4d09-b5de-689ecb94d7ba",
+      "DisplayName": "Pizzapan.EntityLayer",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
